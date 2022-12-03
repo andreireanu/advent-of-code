@@ -1,0 +1,1 @@
+/home/andrei/Programming/Rust/advent-of-code/01/elves/target/debug/elves: /home/andrei/Programming/Rust/advent-of-code/01/elves/src/lib.rs /home/andrei/Programming/Rust/advent-of-code/01/elves/src/main.rs
